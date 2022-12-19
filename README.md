@@ -1,5 +1,5 @@
-#OMENDAS COFFEE-SITE.
-#Description.
+# OMENDAS COFFEE-SITE.
+### Description.
 This is a website were one can view many diffrent types of coffee, check the price and oder any type of coffee they wish to take.
 
 Built With
@@ -9,26 +9,23 @@ This application was built with the following technologies:
 .css
 .HTML
 
-#Getting Started.
-#Installing
+# Getting Started.
+### Installing
 Fork and clone this repository.
 Open index.html in your browser and go live.
 Github(http://coffee-site-drab.vercel.app/)
 
-#Help
+### Help
 command to run if program contains helper info
 
-#Authors
-ex Marylucy Atieno Omenda.
+### Authors
+ex Marylucy Atieno Omenda.<br>
 ex marylucyatienoomenda@gmail.com
 
-#License
+### License
 Copyright (c) Marylucy.
 
-#Acknowledgments
-CSS
-HTML
-JS
-README
+### Acknowledgments
+Google images
 
 
