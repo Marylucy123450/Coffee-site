@@ -5,14 +5,14 @@ This is a website were one can view many diffrent types of coffee, check the pri
 Built With
 This application was built with the following technologies:
 
-.Javascript
-.css
-.HTML
+.Javascript<br>
+.css<br>
+.HTML<br>
 
 # Getting Started.
 ### Installing
-Fork and clone this repository.
-Open index.html in your browser and go live.
+Fork and clone this repository.<br>
+Open index.html in your browser and go live.<br>
 Github(http://coffee-site-drab.vercel.app/)
 
 ### Help
