@@ -4,7 +4,7 @@
   "description": "A coffee-site where one can take a look of the diffrent types of coffee and order",
   "main": "index.js",
   "scripts": {
-    "test": "npm test"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
