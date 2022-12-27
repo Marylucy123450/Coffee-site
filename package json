@@ -1,0 +1,22 @@
+{
+  "name": "Coffee-site",
+  "version": "1.0.0",
+  "description": "A coffee-site where one can take a look of the diffrent types of coffee and order",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Marylucy123450/Coffee-site"
+  },
+  "keywords": [
+    "code"
+  ],
+  "author": "Marylucy Atieno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marylucy123450/Coffee-site"
+  },
+  "homepage": "https://github.com/Marylucy123450/Coffee-site"
+}
